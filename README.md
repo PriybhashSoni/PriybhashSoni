@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priybhash</h1>
+<h1 align="center">Hi there 👋, I'm Priybhash</h1>
 <h3 align="center">I am pursuing my bachelors in Computer Science.Currently I am learnig Android using Java I also have knowledge of Web Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p&label=Profile%20views&color=0e75b6&style=flat" alt="p" /> </p>
@@ -32,5 +32,4 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriybhashSoni&theme=dark&show_icons=true)
 
