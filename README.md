@@ -1,9 +1,6 @@
-### Hi there 👋
-
-I am Priybhash currentlr pursuing my btech in CS.
 
 <h1 align="center">Hi 👋, I'm Priybhash</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am pursuing my bachelors in Computer Science.Currently I am learnig Android using Java I also have have knowledge of Web Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p&label=Profile%20views&color=0e75b6&style=flat" alt="p" /> </p>
 
