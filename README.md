@@ -1,5 +1,7 @@
-<p><img src="https://github.com/PriybhashSoni/PriybhashSoni/blob/main/myGIF_Git.gif" width="100%"/>
-<h3 align="center">I am pursuing my bachelors in Computer Science.Currently I am learnig Android using Java I also have knowledge of Web Development.</h3>
+<img src="https://github.com/PriybhashSoni/PriybhashSoni/blob/main/myGIF_Git.gif" width="100%"/>
+<br/>
+  <h1>About Me</h1>
+<h3 align="center">I am a fascinated learner pursuing my bachelors in Computer Science.Currently I am learnig Android using Java I also have knowledge of Web Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p&label=Profile%20views&color=0e75b6&style=flat" alt="p" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priybhashsoni" alt="priybhashsoni" /></a> </p>
