@@ -1,6 +1,6 @@
 <img src="https://github.com/PriybhashSoni/PriybhashSoni/blob/main/myGIF_Git.gif" width="100%"/>
 <br/>
-  <h1>About Me</h1>
+  <h1  align="center">About Me</h1>
 <h3 align="center">I am a fascinated learner pursuing my bachelors in Computer Science.Currently I am learnig Android using Java I also have knowledge of Web Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p&label=Profile%20views&color=0e75b6&style=flat" alt="p" /> </p>
