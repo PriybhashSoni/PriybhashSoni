@@ -1,4 +1,4 @@
-<img src="https://github.com/PriybhashSoni/PriybhashSoni/blob/main/gitgitgif.gif" width="100%"/>
+<img src="https://github.com/PriybhashSoni/PriybhashSoni/blob/main/bbbbb.gif" width="100%"/>
   <h1  align="center">About Me</h1>
 <h3 align="center">I am a fascinated learner pursuing my bachelors in Computer Science.Currently I am learnig Android using Java I also have knowledge of Web Development.</h3>
 
