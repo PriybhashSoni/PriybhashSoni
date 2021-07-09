@@ -1,7 +1,7 @@
 <img src="https://github.com/PriybhashSoni/PriybhashSoni/blob/main/bbbbb.gif" width="100%"/>
   <h1  align="center">About Me</h1>
 <h3 align="center">I am a fascinated learner pursuing my bachelors in Computer Science.Currently I am learnig Android using Java I also have knowledge of Web Development.</h3>
-<h3  align="center" color="#ffeb52">Check out my Portfolio -> <a href="https://priybhashsoni.github.io/PriybhashSoniPortfolio/" target="blank"><img src="https://github.com/PriybhashSoni/PriybhashSoni/blob/main/iconportfolio.jpg" width="30"></a></h3>
+<h3  align="center" color="#ffeb52">Check out my Portfolio -> <a href="https://priybhashsoni.github.io/PriybhashSoniPortfolio/" target="_blank"><img src="https://github.com/PriybhashSoni/PriybhashSoni/blob/main/iconportfolio.jpg" width="30"></a></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=p&label=Profile%20views&color=0e75b6&style=flat" alt="p" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priybhashsoni" alt="priybhashsoni" /></a> </p>
@@ -9,10 +9,10 @@
 <h3  align="center">Connect with me:</h3>
 <p  align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/priybhash-soni-52663a204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priybhash-soni-52663a204/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15978650/priybhash-soni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15978650/priybhash-soni" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_._.itspy._._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_._.itspy._._/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/py_priybhashsoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/py_priybhashsoni" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/pypriybhashsoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/pypriybhashsoni" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15978650/priybhash-soni" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15978650/priybhash-soni" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/_._.itspy._._/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_._.itspy._._/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/py_priybhashsoni" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/py_priybhashsoni" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/pypriybhashsoni" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/pypriybhashsoni" height="30" width="40" /></a>
 </p>
 
 
