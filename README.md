@@ -28,7 +28,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priybhashsoni&" alt="priybhashsoni" /></p>
 
-[![Priybhash's github activity graph](https://activity-graph.herokuapp.com/graph?username=PriybhashSoni&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Priybhash's github activity graph](https://activity-graph.herokuapp.com/graph?username=PriybhashSoni&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
