@@ -1,6 +1,6 @@
 <img src="https://github.com/PriybhashSoni/PriybhashSoni/blob/main/bbbbb.gif" width="150%"/>
   <h1  align="center">About Me</h1>
-<h3 align="center">I am a fascinated learner pursuing my bachelors in Computer Science.Currently I am learnig Android using Java I also have knowledge of Web Development.</h3>
+<h3 align="center">I am a fascinated learner pursuing my bachelors in Computer Science.Currently I am learing Android using Java I also have knowledge of Web Development.</h3>
 <h2  align="center" color="#ffeb52">Check out my Portfolio -> <a href="https://priybhashsoni.github.io/PriybhashSoniPortfolio" target="_blank"><img src="https://github.com/PriybhashSoni/PriybhashSoni/blob/main/iconportfolio.jpg" width="30"></a></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=p&label=Profile%20views&color=0e75b6&style=flat" alt="p" /> </p>
